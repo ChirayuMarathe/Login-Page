@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "625680915074",
+    "project_id": "chirayuflutter",
+    "storage_bucket": "chirayuflutter.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:625680915074:android:c7463cb77b912300d7f29b",
+        "android_client_info": {
+          "package_name": "com.example.project"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCT_yE9cvA5z6WRzbKW5BRhziUAITDpyGQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
